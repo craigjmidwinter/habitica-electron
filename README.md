@@ -1,4 +1,12 @@
-# electron-boilerplate
+# Habitica Electron
+
+This just performs a redirect to HabitRpg in an electron app. Basically it's just the electron boilerplate. Feel free to fork and make this better please (I haven't even changed the boilerplate icons)
+
+Binaries are located here:
+[Windows] https://s3-us-west-2.amazonaws.com/habitica-electron/Habitica+Setup+0.0.0.exe
+[Mac] https://s3-us-west-2.amazonaws.com/habitica-electron/Habitica-0.0.0.dmg
+
+Below are the docs for the electron boilerplate which should give you any information you need if you want to build it yourself.
 
 A minimalistic boilerplate for [Electron runtime](http://electron.atom.io). Tested on Windows, macOS and Linux.  
 
