@@ -10,7 +10,8 @@ Binaries are located here:
 
 Below are the docs for the electron boilerplate which should give you any information you need if you want to build it yourself.
 
-#boilerplate
+# Electron boilerplate
+
 A minimalistic boilerplate for [Electron runtime](http://electron.atom.io). Tested on Windows, macOS and Linux.  
 
 This project contains only bare minimum of dependencies, to provide you with nice development environment. Doesn't impose on you any frontend technologies, so you can pick your favourite.
